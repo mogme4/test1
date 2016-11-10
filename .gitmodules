@@ -1,3 +1,6 @@
 [submodule "script"]
 	path = script
 	url = https://github.com/mogme4/testlib
+[submodule "script2"]
+	path = script2
+	url = https://github.com/mogme4/testlib2.git
